@@ -13,7 +13,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <div className="flex items-center gap-2">
               <img 
-                src="/lovable-uploads/epiplay-logo.png" 
+                src="epiplay-logo.png" 
                 alt="EpiPlay Logo" 
                 className="h-12 w-12 object-contain" 
               />
