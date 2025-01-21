@@ -11,11 +11,16 @@ const Navbar = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <img 
-              src="/lovable-uploads/epiplay-logo.png" 
-              alt="EpiPlay Logo" 
-              className="h-12 w-auto" 
-            />
+            <div className="flex items-center gap-2">
+              <img 
+                src="/lovable-uploads/epiplay-logo.png" 
+                alt="EpiPlay Logo" 
+                className="h-12 w-auto" 
+              />
+              <span className="text-xl font-semibold">
+                EpiPlay <span className="text-gray-500">Web</span>
+              </span>
+            </div>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <button onClick={() => scrollToSection("features")} className="text-gray-600 hover:text-primary">Features</button>

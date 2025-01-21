@@ -21,7 +21,7 @@ const FAQ = () => {
     },
     {
       question: "Can I watch dramas offline?",
-      answer: "Yes, Melolo supports offline viewing. Simply download your favorite episodes when you have internet connection, and watch them later without using data."
+      answer: "Yes, EpiPlay supports offline viewing. Simply download your favorite episodes when you have internet connection, and watch them later without using data."
     }
   ];
 
@@ -32,7 +32,7 @@ const FAQ = () => {
           Frequently Asked Questions
         </h2>
         <p className="text-gray-600 text-center mb-16 text-lg">
-          Everything you need to know about Melolo Drama App
+          Everything you need to know about EpiPlay Drama App
         </p>
         
         <div className="max-w-3xl mx-auto">

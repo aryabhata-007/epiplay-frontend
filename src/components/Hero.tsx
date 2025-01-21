@@ -8,7 +8,7 @@ const Hero = () => {
         </h1>
         <h2 className="text-3xl md:text-4xl mb-8">Anytime, Anywhere</h2>
         <p className="text-lg md:text-xl mb-12 max-w-3xl mx-auto">
-          Experience the best mobile short-form entertainment with Melolo. Watch HD dramas online or offline, perfectly fit your busy schedule.
+          Experience the best mobile short-form entertainment with EpiPlay. Watch HD dramas online or offline, perfectly fit your busy schedule.
         </p>
         <div className="flex flex-col md:flex-row gap-4 justify-center mb-16">
           <button className="bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors">
