@@ -8,16 +8,16 @@ import {
 const FAQ = () => {
   const faqs = [
     {
-      question: "What is Melolo Drama App?",
-      answer: "Melolo is a free short drama app designed for viewers in Southeast Asia. It offers high-quality Asian dramas with episodes perfectly sized at 10-20 minutes, making it ideal for busy schedules."
+      question: "What is EpiPlay Drama App?",
+      answer: "EpiPlay is a free short drama app designed for viewers in Southeast Asia. It offers high-quality Asian dramas with episodes perfectly sized at 10-20 minutes, making it ideal for busy schedules."
     },
     {
-      question: "Is Melolo App free to use?",
-      answer: "Yes, Melolo is completely free to download and use. You can enjoy all our content without any subscription fees."
+      question: "Is EpiPlay App free to use?",
+      answer: "Yes, EpiPlay is completely free to download and use. You can enjoy all our content without any subscription fees."
     },
     {
-      question: "Where is Melolo available?",
-      answer: "Melolo is currently available in Indonesia and Philippines, with plans to expand across Southeast Asia. You can download it from Google Play Store or through APK."
+      question: "Where is EpiPlay available?",
+      answer: "EpiPlay is currently available in Indonesia and Philippines, with plans to expand across Southeast Asia. You can download it from Google Play Store or through APK."
     },
     {
       question: "Can I watch dramas offline?",

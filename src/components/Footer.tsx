@@ -62,7 +62,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-100 mt-12 pt-8">
           <p className="text-center text-gray-500 text-sm">
-            © 2025 Melolo - Free Short Drama App. All rights reserved.
+            © 2025 EpiPlay - Free Short Drama App. All rights reserved.
           </p>
         </div>
       </div>

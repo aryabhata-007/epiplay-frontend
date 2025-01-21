@@ -6,7 +6,7 @@ const Download = () => {
           Download Free Drama App Today
         </h2>
         <p className="text-lg md:text-xl mb-12 max-w-3xl mx-auto">
-          Download Melolo mobile app now and unlock unlimited access to premium short dramas. Join millions of users enjoying HD streaming and offline viewing on their devices.
+          Download EpiPlay mobile app now and unlock unlimited access to premium short dramas. Join millions of users enjoying HD streaming and offline viewing on their devices.
         </p>
         
         <div className="flex flex-col md:flex-row gap-6 justify-center mb-16">
