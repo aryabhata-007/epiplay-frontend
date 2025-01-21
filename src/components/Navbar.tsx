@@ -15,10 +15,10 @@ const Navbar = () => {
               <img 
                 src="/lovable-uploads/epiplay-logo.png" 
                 alt="EpiPlay Logo" 
-                className="h-12 w-auto" 
+                className="h-12 w-12 object-contain" 
               />
               <span className="text-xl font-semibold">
-                EpiPlay <span className="text-gray-500">Web</span>
+                EpiPlay
               </span>
             </div>
           </div>
