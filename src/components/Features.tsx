@@ -5,7 +5,7 @@ const Features = () => {
     <section id="features" className="py-20 bg-white">
       <div className="container mx-auto px-6">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          Why Choose Melolo Free Drama App
+          Why Choose EpiPlay Free Drama App
         </h2>
         <p className="text-gray-600 text-center mb-16 text-lg">
           The best free short drama app in Southeast Asia, designed for drama lovers
