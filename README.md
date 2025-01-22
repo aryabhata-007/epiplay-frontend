@@ -53,13 +53,12 @@ npm run dev
 ## What technologies are used for this project?
 
 This project is built with .
-
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
-
+- 
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/dc290cde-d321-4ec1-aa7a-a7fdbd031948) and click on Share -> Publish.
